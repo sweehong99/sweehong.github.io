@@ -1,2 +1,1 @@
-# sweehong.github.io
-My Learning Journey
+# My Learning Journey
